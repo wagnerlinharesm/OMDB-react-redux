@@ -2,6 +2,11 @@
 
 OMDB Search Movie is a project using react redux to show movies infos
 
+The project has 2 pages. The first is used to search for films related to what is searched. The search triggers an action that updates the movie list status, allowing you to load the movie list with their respective cards.
+When viewing the films, the user can click on a poster to display more information about the film, when he clicks a new screen opens with the information of the desired film.
+The tests check the sorting functions and the initial state of the reducer.
+
+
 ### Features
 
 - Search films by free search;
@@ -29,7 +34,7 @@ To run this project you must have:
    `$ cd OMDB-react-redux`
 
 3. Install the dependencies:
-   `$ npm install` or `$ yarn install`
+   `$ npm install`
 
 4. You can run the tests with `npm test` command
 
