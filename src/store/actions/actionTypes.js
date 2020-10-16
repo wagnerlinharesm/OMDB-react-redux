@@ -1,0 +1,5 @@
+export const FETCH_MOVIES = 'FETCH_MOVIES'
+export const ORDER_A_TO_Z = 'ORDER_A_TO_Z'
+export const ORDER_Z_TO_A = 'ORDER_Z_TO_A'
+export const ORDER_AVERAGE_HIGH = 'ORDER_AVERAGE_HIGH'
+export const ORDER_AVERAGE_LOW = 'ORDER_AVERAGE_LOW'
