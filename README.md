@@ -23,10 +23,10 @@ To run this project you must have:
 #### Installing
 
 1. Clone the repository to your local machine:
-   `$ git clone `
+   `$ git clone https://github.com/wagnerlinharesm/OMDB-react-redux.git`
 
 2. Enter in the directory of the project:
-   `$ cd clonify`
+   `$ cd OMDB-react-redux`
 
 3. Install the dependencies:
    `$ npm install` or `$ yarn install`
