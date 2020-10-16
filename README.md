@@ -36,7 +36,7 @@ To run this project you must have:
 3. Install the dependencies:
    `$ npm install`
 
-4. You can run the tests with `npm test` command
+4. You can run the tests with `$ npm test` command
 
 6. That's all. Now you can run it with the command:
    `$ npm start`.
